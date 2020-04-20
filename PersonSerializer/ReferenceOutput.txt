@@ -1,0 +1,23 @@
+<Person>
+<FirstName>Pavel</FirstName>
+<LastName>Jezek</LastName>
+<HomeAddress>
+<Street>Patkova</Street>
+<City>Prague</City>
+</HomeAddress>
+<WorkAddress>
+<Street>Malostranske namesti</Street>
+<City>Prague</City>
+</WorkAddress>
+<CitizenOf>
+<Name>Czech Republic</Name>
+<AreaCode>420</AreaCode>
+</CitizenOf>
+<MobilePhone>
+<Country>
+<Name>Czech Republic</Name>
+<AreaCode>420</AreaCode>
+</Country>
+<Number>123456789</Number>
+</MobilePhone>
+</Person>
